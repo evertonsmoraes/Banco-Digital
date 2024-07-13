@@ -1,6 +1,6 @@
 	/**
 	* <h1>Conta</h1>
-	*Classe que simula um 'Conta', implementando interface 'IConta'
+	*Classe Abstrata que simula um 'Conta', implementando interface 'IConta'
 	* 
 	* <b>Note:</b> Desafio "Criando um Banco Digital com Java e Orientação a Objetos" do BootCamp Santander 2024 - Backend com Java"
 	* @author  Everton Moraes
